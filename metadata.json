@@ -1,0 +1,8 @@
+{
+  "name": "Murat Öğretmen'in Not Defteri",
+  "description": "Yıllık planlar, sınıf yoklama listeleri, 5-8. sınıf ders içerikleri, eğitsel mini oyunlar ve kişisel not yönetimini bir araya getiren modern öğretmen platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
